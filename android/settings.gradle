@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleApp_LS4'
+
+include ':app'
